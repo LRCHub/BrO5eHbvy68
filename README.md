@@ -1,0 +1,28 @@
+# p3xonik – liza v posteli - poison tree [lyrics]
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.73] I'm slowly poisoned
+[00:29.12] And the voice of the wind reminds me of haunted dreams
+[00:41.57] My soul is healing
+[00:48.59] When all the stars reflect my memories
+[01:07.59] 
+[01:00.70] Oh, beautiful poison tree
+[01:05.32] Let your power grow in me
+[01:10.33] Let your sorrow pour in me
+[01:15.02] Take away my blood and bones
+[01:20.10] Make your flowers deep inside of me
+[01:37.60] 
+[01:30.09] Oh, beautiful poison tree
+[01:39.36] Oh, beautiful poison tree
+[01:51.86] 
+[02:08.87] In another time when I used to feel
+[02:18.65] That something's passing me
+[02:32.15] 
+[02:28.21] What a beautiful poison tree
+[02:32.77] Then your smile would crawl in me
+[02:37.91] Let your sorrow pour in me
+[02:42.62] Took away my blood and bones
+[02:47.54] Made these flowers deep inside of me
+```
