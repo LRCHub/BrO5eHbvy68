@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "liza v posteli - poison tree [lyrics]",
+  "base_artist": "p3xonik",
+  "createdAt": "2026-03-31T20:47:01.688250Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "liza v posteli - poison tree [lyrics]",
+      "artist": "p3xonik",
+      "has_synced": true,
+      "path": "select/01_liza_v_posteli_-_poison_tree_[lyrics]_p3xonik.lrc"
+    }
+  ]
+}
